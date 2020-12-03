@@ -107,45 +107,29 @@
 <table style="border: none">
   <tbody>
     <tr valign="top">
-       <td width="25%" align="center">
+       <td width="20%" align="center">
         <br><span>Pycharm</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pycharm.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <br><span>Intellij</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <br><span>Webstorm</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/webstorm.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <br><span>RubyMine</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/rubymine.svg">
       </td>
-    </tr>
-    <tr valign="top">
-        <td width="25%" align="center">
+      <td width="20%" align="center">
          <br><span>Postman</span><br><br>
          <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
        </td>
-      <!--
-       <td width="25%" align="center">
-         <span>HTML5</span><br><br><br>
-         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-       </td>
-       <td width="25%" align="center">
-         <span>CSS3</span><br><br><br>
-         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-       </td>
-       <td width="25%" align="center">
-         <span>Ruby</span><br><br><br>
-         <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
-       </td> -->
-     </tr>
+    </tr>
  </tbody>
 </table>
-
 
 
 
