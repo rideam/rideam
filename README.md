@@ -1,7 +1,4 @@
 
-## RIDEAM 👋
-
-
 ### 📝  Software Engineer @
 
 ### 
