@@ -1,8 +1,8 @@
 
-### 📝  Software Engineer @
+### 📝  Software Engineer 
 
-### 
 
+<!--
 <table> 
  <tbody>
   <tr valign="top">
@@ -17,7 +17,7 @@
   </tr>
   </tbody>
 </table>
-
+-->
 
 
 
