@@ -138,6 +138,7 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/rideam)](https://github.com/rideam)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/rideam)](https://github.com/rideam) 
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cpp&link=https://github.com/rideam)](https://github.com/rideam)
+[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r&link=https://github.com/rideam)](https://github.com/rideam)
 
 
 ### Frontend
