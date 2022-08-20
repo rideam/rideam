@@ -14,7 +14,7 @@
 
 
 ### Backend
-<img style="margin:2px;" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat&logo=express&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/NextJs-%238969AD.svg?&style=flat&logo=nextdotjs&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Flask-%eeeeee.svg?&style=flat&logo=flask&logoColor=white"/>
+<img style="margin:2px;" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=flat&logo=express&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Next.js-%238969AD.svg?&style=flat&logo=nextdotjs&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Flask-%eeeeee.svg?&style=flat&logo=flask&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/FastAPI-%23009788.svg?&style=flat&logo=fastapi&logoColor=white"/>
 
 ### Databases
 <img src="https://img.shields.io/badge/MySql-%23000000.svg?&style=flat&logo=mysql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/PostgreSql-%29900000.svg?&style=flat&logo=postgresql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB-%23009900.svg?&style=flat&logo=mongodb&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/DynamoDB-%23789900.svg?&style=flat&logo=amazonaws&logoColor=white"/>&nbsp;
