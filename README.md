@@ -45,14 +45,14 @@
 
 
 
-#### 🏆 Github Status 👀 
+<!-- #### 🏆 Github Status 👀 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=rideam&show_icons=true&hide_border=true&count_private=true)
 
 <br>
 <a href="https://github.com/rideam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rideam&layout=compact" />
 </a>
-<br>
+<br> -->
 
 ### Let's Connect
 
