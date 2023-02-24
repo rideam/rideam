@@ -1,58 +1,126 @@
+## 📝 Software Engineer
 
-### 📝  Software Engineer 
- 
-[![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-blue?style=flat&logo=kotlin&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)]() 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)]()
-[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r)]()
+### Languages
 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a> 
 
-### Frontend
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="python" width="40" height="35"/>
+</a> 
 
-[![Vue.js](https://img.shields.io/badge/-Vue.js%20-%23fff.svg?style=flat&logo=vuedotjs)]()
-[![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)]()
-[![MaterialUI](https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?&style=flat&logo=materialdesign&logoColor=white)]()
-[![ChakraUI](https://img.shields.io/badge/Chakra%20UI%20-green?&style=flat&logo=chakraui&logoColor=white)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)]()
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS%20-blue?&style=flat&logo=tailwindcss&logoColor=white)]()
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
 
-### Backend
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+</a> 
 
-[![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)]()
-[![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat&logo=express&logoColor=white)]()
-[![Next.js](https://img.shields.io/badge/Next.js-%238969AD.svg?&style=flat&logo=nextdotjs&logoColor=white)]()
-[![Flask](https://img.shields.io/badge/Flask-white?&style=flat&logo=flask&logoColor=black)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-%23009788.svg?&style=flat&logo=fastapi&logoColor=white)]()
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a>
 
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" alt="SQL" width="40" height="40"/> 
+</a>
+
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> 
+</a>
+
+### Frameworks
+
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
+</a> 
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+</a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+</a> 
+
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
+</a> 
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+</a> 
+
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> 
+</a> 
+
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
+</a> 
+
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
+</a> 
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+</a> 
 
 ### Databases
 
-[![MySQL](https://img.shields.io/badge/MySql-%230081CB.svg?&style=flat&logo=mysql&logoColor=orange)]()
-[![PostgreSql](https://img.shields.io/badge/PostgreSql-white?&style=flat&logo=postgresql&logoColor=blue)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-%23009900.svg?&style=flat&logo=mongodb&logoColor=white)]()
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-%23789900.svg?&style=flat&logo=amazonaws&logoColor=white)]()
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> 
+</a> 
 
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> 
 
-### AWS - Technologies
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
 
-[![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazonaws)]()
-[![Fargate](https://img.shields.io/badge/Fargate-%29120000.svg?&style=flat&logo=amazonaws&logoColor=white)]()
-[![Cloud9](https://img.shields.io/badge/Cloud9-%23709900.svg?&style=flat&logo=amazonaws&logoColor=white)]()
-[![EC2](https://img.shields.io/badge/EC2-%237099034.svg?&style=flat&logo=amazonaws&logoColor=white)]()
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+</a> 
 
+### Services
 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a> 
 
-<!-- #### 🏆 Github Status 👀 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=rideam&show_icons=true&hide_border=true&count_private=true)
-
-<br>
-<a href="https://github.com/rideam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rideam&layout=compact" />
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
 </a>
-<br> -->
+
+### Tools
+
+<a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> 
+</a> 
+
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+</a> 
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
+</a> 
 
 ### Let's Connect
 
